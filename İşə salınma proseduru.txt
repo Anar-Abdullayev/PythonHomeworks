@@ -1,0 +1,5 @@
+Proyekti pycharm ilə açmaq.
+python -m venv .venv      # virtual environment yaratmaq
+.venv\Scripts\activate    # Windows üçün
+pip install -r requirements.txt # requirements.txt içindəki dependencyləri yükləyir.
+python main.py
